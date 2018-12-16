@@ -30,3 +30,7 @@
     transform: rotate(360deg);
   }
 }
+
+.ql-custom-button:after{
+  content: "X";
+}
